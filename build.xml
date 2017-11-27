@@ -7,7 +7,7 @@
 <mkdir dir="build/jars"/>
 <jar destfile="build/jars/Factorial.jar" basedir="build/classes">
 <manifest>
-<attribute name="Main-Class" value="HelloWorld"/>
+<attribute name="Main-Class" value="Factorial"/>
 </manifest>
 </jar>
 </target>
